@@ -524,3 +524,5 @@ immersive_portals:alternate5 -> 6
 [03:14:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /nte group Admin prefix &r
 [03:14:16] [Async Chat Thread - 9/INFO] [/]: <vateyu> miraa
 [03:14:18] [Async Chat Thread - 9/INFO] [/]: <vateyu> como lo hice
+[03:14:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /nte group default prefix &r
+[03:14:29] [Async Chat Thread - 9/INFO] [/]: <samurai421> ?
