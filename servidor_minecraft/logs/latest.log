@@ -641,3 +641,75 @@ immersive_portals:alternate5 -> 6
 [03:34:06] [Async Chat Thread - 14/INFO] [/]: <vateyu> ahora instalo mas
 [03:34:08] [Async Chat Thread - 14/INFO] [/]: <vateyu> emotes
 [03:34:39] [Async Chat Thread - 14/INFO] [/]: <samurai421> ok
+[03:34:57] [Async Chat Thread - 14/INFO] [/]: <vateyu> si quieres as una zona de tiemda bajo tierra
+[03:35:02] [Async Chat Thread - 14/INFO] [/]: <vateyu> que luego los conecto por portales
+[03:35:05] [Async Chat Thread - 14/INFO] [/]: <vateyu> no tan lejos
+[03:35:09] [Async Chat Thread - 14/INFO] [/]: <vateyu> abajo del spawn
+[03:35:11] [Async Chat Thread - 14/INFO] [/]: <vateyu> si queres
+[03:35:19] [Async Chat Thread - 14/INFO] [/]: <samurai421> me iba a poner con algunos textos en hologramas
+[03:35:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /weather clear
+[03:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the weather to clear]
+[03:35:26] [Async Chat Thread - 14/INFO] [/]: <vateyu> dale eso eso
+[03:35:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh hologram create portal-spawn
+[03:36:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn ~ ~ ~
+[03:36:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn ~ ~ ~
+[03:36:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo movehere
+[03:36:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo movehere portal-spawn
+[03:36:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo movehere portal-spawn
+[03:37:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh hologram create portal-spawn2
+[03:37:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn2 0.30000001192092896 66 130.3918051999188
+[03:38:09] [Async Chat Thread - 15/INFO] [/]: <vateyu> en 20m me voy a dormir
+[03:38:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn -44.
+[03:38:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn -44 155 172
+[03:38:29] [Async Chat Thread - 15/INFO] [/]: <samurai421> x2
+[03:38:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn -44 155 173
+[03:38:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn -44 155 172.5
+[03:38:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn2 0.30000001192092896 66 131
+[03:39:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn2 0 66 131.5
+[03:39:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn2 4 66 131.5
+[03:39:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn2 0.5 66 131.5
+[03:39:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn2 0.5 66 131
+[03:39:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh holo move portal-spawn2 0.5 66 130.5
+[03:40:06] [Async Chat Thread - 16/INFO] [/]: <samurai421> esto q seria?
+[03:40:19] [Async Chat Thread - 16/INFO] [/]: <vateyu> una zona para ir a la tiemda o otra cosa nose
+[03:40:32] [Async Chat Thread - 16/INFO] [/]: <vateyu> ahi va estar el portal
+[03:40:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh hologram create tienda tienda
+[03:40:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /weather clear
+[03:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the weather to clear]
+[03:40:54] [Async Chat Thread - 16/INFO] [/]: <vateyu> porque aqui dice black dile
+[03:40:56] [Async Chat Thread - 16/INFO] [/]: <vateyu> line"
+[03:41:01] [Async Chat Thread - 16/INFO] [/]: <vateyu> blanck
+[03:41:04] [Async Chat Thread - 16/INFO] [/]: <samurai421> dsp se modifica
+[03:41:08] [Async Chat Thread - 16/INFO] [/]: <vateyu> aa
+[03:42:03] [Async Chat Thread - 16/INFO] [/]: <vateyu> un espejo
+[03:42:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[03:42:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[03:42:19] [Async Chat Thread - 16/INFO] [/]: <vateyu> con un mechero
+[03:42:21] [Async Chat Thread - 16/INFO] [/]: <vateyu> los prendes
+[03:42:26] [Async Chat Thread - 16/INFO] [/]: <samurai421> ah ok
+[03:42:51] [Async Chat Thread - 16/INFO] [/]: <vateyu> xd
+[03:43:32] [Async Chat Thread - 16/INFO] [/]: <samurai421> soy yo o genera lag?
+[03:43:32] [Async Chat Thread - 16/INFO] [/]: <vateyu> esto baja fps para que no abuses
+[03:43:38] [Async Chat Thread - 16/INFO] [/]: <vateyu> si
+[03:43:49] [Async Chat Thread - 16/INFO] [/]: <vateyu> tambien quiero quitar lo del nether ya vas a ver lo que pasa xd
+[03:43:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu has made the advancement [Ice Bucket Challenge]
+[03:44:04] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld -54 153 174
+[03:44:05] [Server thread/INFO] [Portal/]: Cannot Find Portal Placement on Ground with 3 Spacing
+[03:44:05] [Server thread/INFO] [Portal/]: Generated Portal On Ground
+[03:44:10] [Async Chat Thread - 16/INFO] [/]: <vateyu> mira
+[03:44:14] [Server thread/INFO] [Portal/]: samurai421 :: (minecraft:overworld -53.541849453569064 153.62905944069163 173.81777148555034)->(minecraft:the_nether -5 89 24)
+[03:44:15] [Server thread/INFO] [Portal/]: samurai421 :: (minecraft:the_nether -5.355365944769944 89.62905944069163 24.34913469058685)->(minecraft:overworld -53 153 173)
+[03:44:17] [Async Chat Thread - 16/INFO] [/]: <vateyu> ahi una forma de quitarlo pero nose como
+[03:44:20] [Server thread/INFO] [Portal/]: vateyu :: (minecraft:overworld -53.55940568388067 153.17675927506423 174.3990674621306)->(minecraft:the_nether -5 89 25)
+[03:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu has made the advancement [We Need to Go Deeper]
+[03:44:23] [Server thread/INFO] [Portal/]: samurai421 :: (minecraft:overworld -53.61333333405418 153.62905944069163 174.1448661585815)->(minecraft:the_nether -5 89 25)
+[03:44:29] [Async Chat Thread - 16/INFO] [/]: <samurai421> el quitar el q?
+[03:44:30] [Server thread/INFO] [Portal/]: vateyu :: (minecraft:the_nether -5.3412644120944215 89.00002442408821 24.71360833393685)->(minecraft:overworld -53 153 173)
+[03:44:36] [Async Chat Thread - 16/INFO] [/]: <samurai421> que se pueda entrar al nether?
+[03:44:37] [Server thread/INFO] [Portal/]: samurai421 :: (minecraft:the_nether -5.3190701117414525 89.00002442408821 24.496442914997477)->(minecraft:overworld -53 153 173)
+[03:44:48] [Async Chat Thread - 16/INFO] [/]: <vateyu> no esta forma de portal
+[03:44:50] [Async Chat Thread - 16/INFO] [/]: <vateyu> quiero que sea normal
+[03:44:51] [Server thread/INFO] [Portal/]: Broke NetherPortalEntity{10502,west,(minecraft:overworld -53 154 174)->(minecraft:the_nether -5 90 25),imm_ptl:intrinsic_nether_portal}
+[03:44:51] [Server thread/INFO] [Portal/]: Broke NetherPortalEntity{10503,east,(minecraft:overworld -53 154 174)->(minecraft:the_nether -5 90 25),imm_ptl:intrinsic_nether_portal}
+[03:44:51] [Server thread/INFO] [Portal/]: Broke NetherPortalEntity{10504,east,(minecraft:the_nether -5 90 25)->(minecraft:overworld -53 154 174),imm_ptl:intrinsic_nether_portal}
+[03:44:51] [Server thread/INFO] [Portal/]: Broke NetherPortalEntity{10505,west,(minecraft:the_nether -5 90 25)->(minecraft:overworld -53 154 174),imm_ptl:intrinsic_nether_portal}
