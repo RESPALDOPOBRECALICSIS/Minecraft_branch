@@ -713,3 +713,6 @@ immersive_portals:alternate5 -> 6
 [03:44:51] [Server thread/INFO] [Portal/]: Broke NetherPortalEntity{10503,east,(minecraft:overworld -53 154 174)->(minecraft:the_nether -5 90 25),imm_ptl:intrinsic_nether_portal}
 [03:44:51] [Server thread/INFO] [Portal/]: Broke NetherPortalEntity{10504,east,(minecraft:the_nether -5 90 25)->(minecraft:overworld -53 154 174),imm_ptl:intrinsic_nether_portal}
 [03:44:51] [Server thread/INFO] [Portal/]: Broke NetherPortalEntity{10505,west,(minecraft:the_nether -5 90 25)->(minecraft:overworld -53 154 174),imm_ptl:intrinsic_nether_portal}
+[03:45:01] [Async Chat Thread - 16/INFO] [/]: <samurai421> ah desde el config del mod
+[03:45:06] [Async Chat Thread - 16/INFO] [/]: <samurai421> dsp lo hago
+[03:45:10] [Async Chat Thread - 16/INFO] [/]: <vateyu> siii dale
