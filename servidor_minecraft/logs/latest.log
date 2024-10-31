@@ -434,3 +434,27 @@ immersive_portals:alternate5 -> 6
 [02:51:42] [Async Chat Thread - 4/INFO] [/]: <vateyu> es decoracion abajo como una isla
 [02:51:43] [Async Chat Thread - 4/INFO] [/]: <vateyu> asi
 [02:52:05] [Async Chat Thread - 4/INFO] [/]: <vateyu> pero de tierra xd
+[02:56:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /weather clear
+[02:56:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the weather to clear]
+[02:57:05] [Async Chat Thread - 5/INFO] [/]: <vateyu> 7 de abajo
+[02:57:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[02:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[02:57:19] [Async Chat Thread - 5/INFO] [/]: <vateyu> 6 de largo
+[02:57:57] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld -2 63 127
+[02:57:57] [Server thread/INFO] [Portal/]: Generated Portal On Ground
+[02:58:07] [Async Chat Thread - 5/INFO] [/]: <vateyu> 6 de largo
+[02:58:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[02:58:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[02:58:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[02:58:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[02:58:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[02:58:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[02:59:10] [Async Chat Thread - 6/INFO] [/]: <vateyu> el mod de create la arma te puede ayudar
+[02:59:25] [Async Chat Thread - 6/INFO] [/]: <vateyu> 7 abajo
+[02:59:36] [Async Chat Thread - 6/INFO] [/]: <vateyu> 5 de largo
+[03:00:00] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld -2 63 128
+[03:00:11] [Async Chat Thread - 6/INFO] [/]: <vateyu> 5 de largo
+[03:00:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[03:02:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
+[03:02:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[03:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
