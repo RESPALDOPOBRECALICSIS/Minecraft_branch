@@ -526,3 +526,62 @@ immersive_portals:alternate5 -> 6
 [03:14:18] [Async Chat Thread - 9/INFO] [/]: <vateyu> como lo hice
 [03:14:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /nte group default prefix &r
 [03:14:29] [Async Chat Thread - 9/INFO] [/]: <samurai421> ?
+[03:14:39] [Async Chat Thread - 9/INFO] [/]: <samurai421> banco
+[03:14:45] [Async Chat Thread - 9/INFO] [/]: <vateyu> el clear lagg
+[03:14:45] [Async Chat Thread - 9/INFO] [/]: <samurai421> ya saque lo del tab
+[03:14:47] [Async Chat Thread - 9/INFO] [/]: <vateyu> no esto
+[03:14:53] [Async Chat Thread - 9/INFO] [/]: <vateyu> mira
+[03:15:01] [Async Chat Thread - 9/INFO] [/]: <vateyu> espera
+[03:15:12] [Async Chat Thread - 9/INFO] [/]: <vateyu> para ver
+[03:15:14] [Async Chat Thread - 9/INFO] [/]: <vateyu> si funcionaba
+[03:15:15] [Async Chat Thread - 9/INFO] [/]: <samurai421> dame 5
+[03:15:18] [Async Chat Thread - 9/INFO] [/]: <vateyu> el clear lagg
+[03:15:22] [Async Chat Thread - 9/INFO] [/]: <vateyu> esta en creative
+[03:15:29] [Async Chat Thread - 9/INFO] [/]: <vateyu> es el horror elements
+[03:17:53] [Async Chat Thread - 10/INFO] [/]: <samurai421> volvi
+[03:17:53] [Async Chat Thread - 10/INFO] [/]: <vateyu> que haces?
+[03:17:56] [Async Chat Thread - 10/INFO] [/]: <vateyu> aya
+[03:17:57] [Async Chat Thread - 10/INFO] [/]: <vateyu> xd
+[03:18:03] [Async Chat Thread - 10/INFO] [/]: <vateyu> lo de abajo que men
+[03:18:16] [Async Chat Thread - 10/INFO] [/]: <samurai421> se me da fatal
+[03:18:26] [Async Chat Thread - 10/INFO] [/]: <samurai421> lo hago con comandos?
+[03:18:34] [Async Chat Thread - 10/INFO] [/]: <vateyu> si queres
+[03:18:37] [Async Chat Thread - 10/INFO] [/]: <vateyu> como te parezca
+[03:18:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[03:18:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[03:18:53] [Async Chat Thread - 10/INFO] [/]: <vateyu> quita la lluvia
+[03:18:56] [Async Chat Thread - 10/INFO] [/]: <vateyu> o como es el comando xd
+[03:19:02] [Async Chat Thread - 10/INFO] [/]: <samurai421> weather clear
+[03:19:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /weather clear
+[03:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the weather to clear]
+[03:19:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /weather clear
+[03:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the weather to clear]
+[03:19:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /-44 151 197
+[03:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 has made the advancement [Monster Hunter]
+[03:20:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 151 197 -94 150 152
+[03:20:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 151 197 -94 151 152
+[03:21:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 151 197 -94 151 152 air
+[03:21:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2345 blocks]
+[03:21:31] [Async Chat Thread - 11/INFO] [/]: <vateyu> uy
+[03:21:37] [Async Chat Thread - 11/INFO] [/]: <vateyu> XDD
+[03:21:40] [Async Chat Thread - 11/INFO] [/]: <vateyu> que paso
+[03:21:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 151 197 -94 151 152 minecraft:grass_block
+[03:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2346 blocks]
+[03:21:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 150 197 -94 150 152 minecraft:grass_block
+[03:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2346 blocks]
+[03:22:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 149 197 -94 149 152
+[03:22:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 149 197 -92 149 153
+[03:23:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -45 149 196 -92 149 153
+[03:23:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -45 149 196 -92 149 153 minecraft:grass_block
+[03:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2110 blocks]
+[03:23:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -45 149 196 -92 149 153 air
+[03:23:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2112 blocks]
+[03:23:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -45 149 196 -92 149 153 minecraft:grass_block
+[03:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2112 blocks]
+[03:23:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -45 149 196 -92 149 153 air
+[03:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2112 blocks]
+[03:24:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -46 149 196 -92 149 153 minecraft:grass_block
+[03:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 2068 blocks]
+[03:24:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 149 197 -94 149 152
+[03:24:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -46 149 196 -92 149 153 minecraft:grass_block
+[03:24:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 486 blocks]
