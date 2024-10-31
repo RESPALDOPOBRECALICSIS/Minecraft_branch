@@ -400,8 +400,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-10-31 02:47:47 +0000",
       "minecraft:forest": "2024-10-31 02:23:10 +0000",
       "minecraft:taiga": "2024-10-30 21:22:41 +0000",
+      "minecraft:deep_cold_ocean": "2024-10-31 02:47:48 +0000",
       "minecraft:river": "2024-10-30 21:08:31 +0000"
     },
     "done": false

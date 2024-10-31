@@ -361,3 +361,76 @@ immersive_portals:alternate5 -> 6
 [02:43:30] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to samurai421
 [02:43:31] [User Authenticator #23/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
 [02:43:45] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 45 mods : minecraft, voicechat, repurposed_structures, serene_shrubbery, cgm, playeranimator, philips_ruins1_16_5, creativecore, insanelib, flywheel, curios, undead, create, createdeco, mcwfurnituresbop, biomesoplenty, gravestone, securitycraft, horror_element_mod, zombieawareness, cpm, additionalguns, elevatorid, obfuscate, badmobs, sophisticatedbackpacks, atlaslib, coroutil, mvs, mcwdoors, chisel, mcwfurnitures, hordes, enhancedcelestials, enhancedai, carryon, pretaccraft, immersive_portals, forge, valhelsia_core, valhelsia_structures, tlskincape, playerrevive, emotecraft, createaddition
+[02:43:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: vateyu[/127.96.74.149:60861] logged in with entity id 1,696 at (72.5, 65, 102.5)
+[02:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu has made the advancement [Prepair for undeads]
+[02:43:55] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vateyu (18)
+[02:43:55] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vateyu
+[02:44:13] [Async Chat Thread - 2/INFO] [/]: <samurai421> usa /register contraseña
+[02:44:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu lost connection: Disconnected
+[02:44:43] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vateyu
+[02:44:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu left the game
+[02:45:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /setworldspawn 81 70 97
+[02:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the world spawn point to 81, 70, 97 [0.0]]
+[02:45:13] [User Authenticator #24/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
+[02:45:19] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 45 mods : minecraft, voicechat, repurposed_structures, serene_shrubbery, cgm, playeranimator, philips_ruins1_16_5, creativecore, insanelib, flywheel, curios, undead, create, createdeco, mcwfurnituresbop, biomesoplenty, gravestone, securitycraft, horror_element_mod, zombieawareness, cpm, additionalguns, elevatorid, obfuscate, badmobs, sophisticatedbackpacks, atlaslib, coroutil, mvs, mcwdoors, chisel, mcwfurnitures, hordes, enhancedcelestials, enhancedai, carryon, pretaccraft, immersive_portals, forge, valhelsia_core, valhelsia_structures, tlskincape, playerrevive, emotecraft, createaddition
+[02:45:21] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5a3c2ca9[id=5015fe34-1e48-31c9-b241-b5d03155dcdf,name=vateyu,properties={},legacy=false] (/127.96.74.149:50233) lost connection: Disconnected
+[02:45:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /setworldspawn 77 70 97
+[02:45:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the world spawn point to 77, 70, 97 [0.0]]
+[02:45:25] [User Authenticator #25/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
+[02:45:26] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 45 mods : minecraft, voicechat, repurposed_structures, serene_shrubbery, cgm, playeranimator, philips_ruins1_16_5, creativecore, insanelib, flywheel, curios, undead, create, createdeco, mcwfurnituresbop, biomesoplenty, gravestone, securitycraft, horror_element_mod, zombieawareness, cpm, additionalguns, elevatorid, obfuscate, badmobs, sophisticatedbackpacks, atlaslib, coroutil, mvs, mcwdoors, chisel, mcwfurnitures, hordes, enhancedcelestials, enhancedai, carryon, pretaccraft, immersive_portals, forge, valhelsia_core, valhelsia_structures, tlskincape, playerrevive, emotecraft, createaddition
+[02:45:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: vateyu[/127.96.74.149:54501] logged in with entity id 1,731 at (75.428, 66, 96.014)
+[02:45:31] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vateyu (18)
+[02:45:31] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vateyu
+[02:46:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /op vateyu
+[02:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Made vateyu a server operator]
+[02:46:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode creative
+[02:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Creative Mode]
+[02:46:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode creative
+[02:46:11] [Async Chat Thread - 3/INFO] [/]: <vateyu> ya donde andas
+[02:46:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /tp vateyu samurai421
+[02:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Teleported vateyu to samurai421]
+[02:46:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /lp user vateyu parent add admin
+[02:46:21] [luckperms-command-executor/INFO] [/]: [LP] LOG > (samurai421) [U] (vateyu)
+[02:46:21] [luckperms-command-executor/INFO] [/]: [LP] LOG > parent add admin
+[02:46:26] [Async Chat Thread - 3/INFO] [/]: <vateyu> aqui no
+[02:46:29] [Async Chat Thread - 3/INFO] [/]: <vateyu> el
+[02:46:32] [Async Chat Thread - 3/INFO] [/]: <vateyu> inicio
+[02:46:37] [Async Chat Thread - 3/INFO] [/]: <vateyu> esta bueno
+[02:46:39] [Async Chat Thread - 3/INFO] [/]: <vateyu> pero aqui no
+[02:46:40] [Async Chat Thread - 3/INFO] [/]: <samurai421> ok
+[02:46:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh hologram delete spawn1
+[02:47:03] [Async Chat Thread - 3/INFO] [/]: <vateyu> pa q son las etenciones? '
+[02:47:06] [Async Chat Thread - 3/INFO] [/]: <vateyu> del create
+[02:47:18] [Async Chat Thread - 3/INFO] [/]: <samurai421> ns nunca use create
+[02:47:22] [Async Chat Thread - 3/INFO] [/]: <vateyu> xdd
+[02:47:53] [Async Chat Thread - 3/INFO] [/]: <samurai421> donde hacemos el spawn?
+[02:47:56] [Async Chat Thread - 3/INFO] [/]: <vateyu> espera
+[02:47:58] [Async Chat Thread - 3/INFO] [/]: <samurai421> ah mira el tab
+[02:48:00] [Async Chat Thread - 3/INFO] [/]: <vateyu> hago la base
+[02:48:04] [Async Chat Thread - 3/INFO] [/]: <vateyu> si ya vi
+[02:48:04] [Async Chat Thread - 3/INFO] [/]: <vateyu> xdd
+[02:48:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~
+[02:48:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -79 97 169 ~ ~ ~
+[02:48:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -79 97 169 ~ ~ ~ air
+[02:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 66 blocks]
+[02:49:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /gamemode spectator
+[02:49:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set own game mode to Spectator Mode]
+[02:49:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -79 97 169 ~ ~ ~ air
+[02:49:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 49 blocks]
+[02:49:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /gamemode creative
+[02:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set own game mode to Creative Mode]
+[02:49:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -79 97 168 ~ ~ ~ stone
+[02:49:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 54 blocks]
+[02:49:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -79 97 169 ~ ~ ~ air
+[02:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 54 blocks]
+[02:50:00] [Async Chat Thread - 4/INFO] [/]: <vateyu> volvi
+[02:50:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -79 152 169 ~ ~ ~ air
+[02:50:24] [Async Chat Thread - 4/INFO] [/]: <samurai421> y esa arma que?
+[02:50:29] [Async Chat Thread - 4/INFO] [/]: <vateyu> es del create
+[02:50:33] [Async Chat Thread - 4/INFO] [/]: <vateyu> es facil de usar
+[02:50:54] [Async Chat Thread - 4/INFO] [/]: <vateyu> mira los numeros
+[02:50:58] [Async Chat Thread - 4/INFO] [/]: <vateyu> y lo de abajo
+[02:51:02] [Async Chat Thread - 4/INFO] [/]: <vateyu> dice los modos
+[02:51:42] [Async Chat Thread - 4/INFO] [/]: <vateyu> es decoracion abajo como una isla
+[02:51:43] [Async Chat Thread - 4/INFO] [/]: <vateyu> asi
+[02:52:05] [Async Chat Thread - 4/INFO] [/]: <vateyu> pero de tierra xd
