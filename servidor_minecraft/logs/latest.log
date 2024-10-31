@@ -458,3 +458,69 @@ immersive_portals:alternate5 -> 6
 [03:02:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /portal delete_portal
 [03:02:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
 [03:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[03:05:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[03:05:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[03:05:36] [Async Chat Thread - 7/INFO] [/]: <vateyu> quita la lluvia xd
+[03:05:39] [Async Chat Thread - 7/INFO] [/]: <vateyu> `prfa
+[03:05:41] [Async Chat Thread - 7/INFO] [/]: <vateyu> porfa
+[03:05:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /weather clear
+[03:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the weather to clear]
+[03:05:53] [Async Chat Thread - 7/INFO] [/]: <samurai421> la verdad prefiero usar el word edit x
+[03:05:56] [Async Chat Thread - 7/INFO] [/]: <samurai421> xd
+[03:06:01] [Async Chat Thread - 7/INFO] [/]: <vateyu> que hicistes aqui
+[03:06:10] [Async Chat Thread - 7/INFO] [/]: <samurai421> desastre
+[03:06:15] [Async Chat Thread - 7/INFO] [/]: <vateyu> ya me di cuenta
+[03:06:28] [Async Chat Thread - 7/INFO] [/]: <vateyu> te falto un mod
+[03:06:29] [Async Chat Thread - 7/INFO] [/]: <vateyu> bro
+[03:06:40] [Async Chat Thread - 7/INFO] [/]: <samurai421> cual?
+[03:06:45] [Async Chat Thread - 7/INFO] [/]: <vateyu> el de las pinturas
+[03:06:50] [Async Chat Thread - 7/INFO] [/]: <vateyu> personalizadas
+[03:07:09] [Async Chat Thread - 7/INFO] [/]: <samurai421> ese daba error con el immersive portal y el de biomas
+[03:07:15] [Async Chat Thread - 7/INFO] [/]: <vateyu> aa entonces dale
+[03:07:17] [Async Chat Thread - 7/INFO] [/]: <vateyu> np
+[03:08:37] [Async Chat Thread - 8/INFO] [/]: <vateyu> asto escroto xdd
+[03:08:42] [Async Chat Thread - 8/INFO] [/]: <samurai421> xd
+[03:08:42] [Async Chat Thread - 8/INFO] [/]: <vateyu> alto"
+[03:09:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /-43 149 198
+[03:09:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 149 198 ~ ~ ~ air
+[03:09:27] [Async Chat Thread - 8/INFO] [/]: <vateyu> ya tenemos la entrada
+[03:09:29] [Async Chat Thread - 8/INFO] [/]: <vateyu> y salida
+[03:09:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 149 198 ~ ~ ~ air
+[03:09:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 149 198 ~ ~ ~ air
+[03:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 4616 blocks]
+[03:09:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 150 198 ~ ~ ~ air
+[03:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 546 blocks]
+[03:10:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 130 198 ~ ~ ~ air
+[03:10:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 445 blocks]
+[03:10:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 133 198 ~ ~ ~ air
+[03:10:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 331 blocks]
+[03:10:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 135 198 ~ ~ ~ air
+[03:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 317 blocks]
+[03:10:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -43 136 198 ~ ~ ~ air
+[03:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 41 blocks]
+[03:11:20] [Async Chat Thread - 9/INFO] [/]: <vateyu> creo que se te complico xd
+[03:11:35] [Async Chat Thread - 9/INFO] [/]: <samurai421> si, prefiero usar el word edit y comandos
+[03:11:36] [Async Chat Thread - 9/INFO] [/]: <samurai421> xd
+[03:11:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[03:11:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[03:11:49] [Async Chat Thread - 9/INFO] [/]: <vateyu> la lluvia porfa
+[03:11:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /weather clear
+[03:11:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set the weather to clear]
+[03:12:20] [Async Chat Thread - 9/INFO] [/]: <vateyu> alto gordo que sos
+[03:12:31] [Async Chat Thread - 9/INFO] [/]: <vateyu> te falto otro mod
+[03:12:34] [Async Chat Thread - 9/INFO] [/]: <vateyu> el de pirku
+[03:12:36] [Async Chat Thread - 9/INFO] [/]: <vateyu> algo asi
+[03:12:39] [Async Chat Thread - 9/INFO] [/]: <vateyu> de ponerte chiquito
+[03:12:45] [Async Chat Thread - 9/INFO] [/]: <samurai421> ah cierto
+[03:13:19] [Async Chat Thread - 9/INFO] [/]: <vateyu> ahi que eliminar el nombre de los admis
+[03:13:23] [Async Chat Thread - 9/INFO] [/]: <vateyu> en el tab
+[03:13:25] [Async Chat Thread - 9/INFO] [/]: <vateyu> y juego
+[03:13:28] [Async Chat Thread - 9/INFO] [/]: <samurai421> ahora lo hago
+[03:13:30] [Async Chat Thread - 9/INFO] [/]: <vateyu> ya tengo el comando
+[03:13:32] [Async Chat Thread - 9/INFO] [/]: <vateyu> para el tab
+[03:13:37] [Async Chat Thread - 9/INFO] [/]: <vateyu> pero si ahi una manera mejor
+[03:13:40] [Async Chat Thread - 9/INFO] [/]: <vateyu> esta bien
+[03:14:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /nte group Admin prefix
+[03:14:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /nte group Admin prefix &r
+[03:14:16] [Async Chat Thread - 9/INFO] [/]: <vateyu> miraa
+[03:14:18] [Async Chat Thread - 9/INFO] [/]: <vateyu> como lo hice
