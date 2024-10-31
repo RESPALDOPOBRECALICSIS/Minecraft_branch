@@ -585,3 +585,59 @@ immersive_portals:alternate5 -> 6
 [03:24:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -44 149 197 -94 149 152
 [03:24:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -46 149 196 -92 149 153 minecraft:grass_block
 [03:24:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 486 blocks]
+[03:25:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /weather clear
+[03:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the weather to clear]
+[03:25:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /weather clear
+[03:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the weather to clear]
+[03:25:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[03:25:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[03:26:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -47 148 195 -91 148 154 minecraft:grass_block
+[03:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 1890 blocks]
+[03:26:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /difficulty easy
+[03:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: The difficulty has been set to Easy]
+[03:27:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -48 148 194 -90 148 155 minecraft:grass_block
+[03:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 1020 blocks]
+[03:27:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -48 147 194 -90 147 155 minecraft:grass_block
+[03:27:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 1720 blocks]
+[03:27:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -49 146 193 -81 146 156 minecraft:grass_block
+[03:27:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 1253 blocks]
+[03:27:46] [Async Chat Thread - 12/INFO] [/]: <samurai421> eu
+[03:27:52] [Async Chat Thread - 12/INFO] [/]: <samurai421> algo asi?
+[03:28:05] [Async Chat Thread - 12/INFO] [/]: <samurai421> tipo piramide inversa
+[03:28:13] [Async Chat Thread - 12/INFO] [/]: <vateyu> esta good
+[03:28:20] [Async Chat Thread - 12/INFO] [/]: <samurai421> ok
+[03:30:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /difficulty easy
+[03:30:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /weather clear
+[03:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the weather to clear]
+[03:30:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /time set day
+[03:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set the time to 1000]
+[03:30:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill -49 146 193 -89 146 156 minecraft:grass_block
+[03:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 1460 blocks]
+[03:30:32] [Async Chat Thread - 13/INFO] [/]: <vateyu> ahi
+[03:30:32] [Async Chat Thread - 13/INFO] [/]: <vateyu> ahi
+[03:30:35] [Async Chat Thread - 13/INFO] [/]: <vateyu> esta ahi
+[03:30:39] [Async Chat Thread - 13/INFO] [/]: <vateyu> si no queda raro
+[03:30:43] [Async Chat Thread - 13/INFO] [/]: <samurai421> ok
+[03:31:13] [Async Chat Thread - 13/INFO] [/]: <vateyu> falta una parte de tiemda, misiones, zona de revivir
+[03:31:32] [Async Chat Thread - 13/INFO] [/]: <samurai421> eu q hacemos con los mobs?
+[03:31:38] [Async Chat Thread - 13/INFO] [/]: <samurai421> para q no esten en el spawn
+[03:31:49] [Async Chat Thread - 13/INFO] [/]: <vateyu> con el plugin
+[03:31:50] [Async Chat Thread - 13/INFO] [/]: <vateyu> de
+[03:31:53] [Async Chat Thread - 13/INFO] [/]: <vateyu> wordwar
+[03:31:56] [Async Chat Thread - 13/INFO] [/]: <vateyu> pero tocara buscar
+[03:31:59] [Async Chat Thread - 13/INFO] [/]: <vateyu> como ponerlo
+[03:32:06] [Async Chat Thread - 13/INFO] [/]: <vateyu> eso tambien protege para que no rompan esto
+[03:32:15] [Async Chat Thread - 13/INFO] [/]: <samurai421> ok
+[03:32:20] [Async Chat Thread - 13/INFO] [/]: <vateyu> igual solo zombies van estar
+[03:32:23] [Async Chat Thread - 13/INFO] [/]: <vateyu> lo otro lo elimino
+[03:33:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /revive samurai421
+[03:33:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /kill
+[03:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Killed samurai421]
+[03:33:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /kill vateyu
+[03:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Killed vateyu]
+[03:33:54] [Async Chat Thread - 14/INFO] [/]: <samurai421> anda joya
+[03:34:06] [Async Chat Thread - 14/INFO] [/]: <vateyu> ahora instalo mas
+[03:34:08] [Async Chat Thread - 14/INFO] [/]: <vateyu> emotes
+[03:34:39] [Async Chat Thread - 14/INFO] [/]: <samurai421> ok
