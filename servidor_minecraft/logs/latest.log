@@ -942,3 +942,5 @@ java.lang.RuntimeException: Missing Dimension null
 [03:54:47] [Async Chat Thread - 19/INFO] [/]: <vateyu> puedes eliminar solo los portaes no los marcos del otro lado porfa
 [03:55:02] [Async Chat Thread - 19/INFO] [/]: <vateyu> de los dos lados
 [03:55:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /portal delete_portal
+[03:55:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /tp vateyu
+[03:55:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Teleported samurai421 to vateyu]
