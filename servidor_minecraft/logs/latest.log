@@ -307,3 +307,16 @@ immersive_portals:alternate5 -> 6
 [02:22:09] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of samurai421 (18)
 [02:22:09] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to samurai421
 [02:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 has made the advancement [Stone Age]
+[02:23:55] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
+[02:24:06] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@741a7685[id=5015fe34-1e48-31c9-b241-b5d03155dcdf,name=vateyu,properties={},legacy=false] (/127.96.74.149:38191) lost connection: Disconnected
+[02:24:23] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 moved too quickly! 6.935,-6.173,8.693
+[02:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made samurai421 a server operator
+[02:25:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /tp 81 72 97
+[02:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Teleported samurai421 to 81.5, 72.0, 97.5]
+[02:26:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh hologram displayrange spawn1 8
+[02:26:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh hologram displayrange spawn1 6
+[02:26:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh l edit spawn1 1 1
+[02:28:04] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
+[02:28:05] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@627c92a2[id=5015fe34-1e48-31c9-b241-b5d03155dcdf,name=vateyu,properties={},legacy=false] (/127.96.74.149:53453) lost connection: Disconnected
+[02:33:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh l set spawn1 1 1 &a&Bienvenido al server
+[02:33:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /dh l set spawn1 1 1 &a&lBienvenido al server
