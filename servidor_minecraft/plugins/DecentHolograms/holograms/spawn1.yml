@@ -9,6 +9,6 @@ pages:
 - lines:
   - content: '&a&lBienvenido al server'
     height: 0.3
-  - content: listo para la aventura?
+  - content: '&c&nlisto para la aventura?'
     height: 0.3
   actions: {}
