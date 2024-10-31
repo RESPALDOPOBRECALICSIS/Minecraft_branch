@@ -716,3 +716,229 @@ immersive_portals:alternate5 -> 6
 [03:45:01] [Async Chat Thread - 16/INFO] [/]: <samurai421> ah desde el config del mod
 [03:45:06] [Async Chat Thread - 16/INFO] [/]: <samurai421> dsp lo hago
 [03:45:10] [Async Chat Thread - 16/INFO] [/]: <vateyu> siii dale
+[03:45:13] [Async Chat Thread - 16/INFO] [/]: <vateyu> tambien del end
+[03:45:17] [Async Chat Thread - 16/INFO] [/]: <samurai421> ok
+[03:45:32] [Async Chat Thread - 16/INFO] [/]: <vateyu> 4x3
+[03:45:35] [Async Chat Thread - 16/INFO] [/]: <samurai421> ns q mas poner
+[03:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:10] [Async Chat Thread - 16/INFO] [/]: <vateyu> me moli
+[03:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode survival
+[03:46:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Survival Mode]
+[03:46:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode creative
+[03:46:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Creative Mode]
+[03:46:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /tp vateyu
+[03:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Teleported samurai421 to vateyu]
+[03:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu is bleeding...
+[03:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu fell out of the world
+[03:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:21] [Server thread/INFO] [Portal/]: Chunk Tracking Graph Force Remove vateyu
+[03:46:21] [Netty Epoll Server IO #0/ERROR] [net.minecraft.network.NettyPacketEncoder/]: Error encoding packet
+java.lang.RuntimeException: Missing Dimension null
+	at com.qouteall.immersive_portals.dimension_sync.DimensionIdRecord.getIntId(DimensionIdRecord.java:39) ~[immersive_portals:0.16-mc1.16.5-forge]
+	at com.qouteall.immersive_portals.dimension_sync.DimId.writeWorldId(DimId.java:24) ~[immersive_portals:0.16-mc1.16.5-forge]
+	at net.minecraft.network.play.server.SPlayerPositionLookPacket.handler$zfi000$onWrite(SourceFile:530) ~[?:?]
+	at net.minecraft.network.play.server.SPlayerPositionLookPacket.func_148840_b(SourceFile:52) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:40) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:14) ~[?:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.ChannelDuplexHandler.write(ChannelDuplexHandler.java:106) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.network.NetworkManager.lambda$sendPacket$5(NetworkManager.java:213) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:46:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.RuntimeException: Missing Dimension null
+[03:46:21] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vateyu
+[03:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu left the game
+[03:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:22] [Async Chat Thread - 16/INFO] [/]: <samurai421> nos
+[03:46:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 is bleeding...
+[03:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 fell out of the world
+[03:46:29] [User Authenticator #26/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
+[03:46:29] [Server thread/INFO] [Portal/]: Chunk Tracking Graph Force Remove samurai421
+[03:46:29] [Netty Epoll Server IO #0/ERROR] [net.minecraft.network.NettyPacketEncoder/]: Error encoding packet
+java.lang.RuntimeException: Missing Dimension null
+	at com.qouteall.immersive_portals.dimension_sync.DimensionIdRecord.getIntId(DimensionIdRecord.java:39) ~[immersive_portals:0.16-mc1.16.5-forge]
+	at com.qouteall.immersive_portals.dimension_sync.DimId.writeWorldId(DimId.java:24) ~[immersive_portals:0.16-mc1.16.5-forge]
+	at net.minecraft.network.play.server.SPlayerPositionLookPacket.handler$zfi000$onWrite(SourceFile:530) ~[?:?]
+	at net.minecraft.network.play.server.SPlayerPositionLookPacket.func_148840_b(SourceFile:52) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:40) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:14) ~[?:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.ChannelDuplexHandler.write(ChannelDuplexHandler.java:106) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.network.NetworkManager.lambda$sendPacket$5(NetworkManager.java:213) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:46:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.RuntimeException: Missing Dimension null
+[03:46:29] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client samurai421
+[03:46:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: samurai421 left the game
+[03:46:33] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 45 mods : minecraft, voicechat, repurposed_structures, serene_shrubbery, cgm, playeranimator, philips_ruins1_16_5, creativecore, insanelib, flywheel, curios, undead, create, createdeco, mcwfurnituresbop, biomesoplenty, gravestone, securitycraft, horror_element_mod, zombieawareness, cpm, additionalguns, elevatorid, obfuscate, badmobs, sophisticatedbackpacks, atlaslib, coroutil, mvs, mcwdoors, chisel, mcwfurnitures, hordes, enhancedcelestials, enhancedai, carryon, pretaccraft, immersive_portals, forge, valhelsia_core, valhelsia_structures, tlskincape, playerrevive, emotecraft, createaddition
+[03:46:35] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@42ce93e1[id=5015fe34-1e48-31c9-b241-b5d03155dcdf,name=vateyu,properties={},legacy=false] (/127.96.74.149:47931) lost connection: Disconnected
+[03:46:38] [User Authenticator #27/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
+[03:46:38] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 45 mods : minecraft, voicechat, repurposed_structures, serene_shrubbery, cgm, playeranimator, philips_ruins1_16_5, creativecore, insanelib, flywheel, curios, undead, create, createdeco, mcwfurnituresbop, biomesoplenty, gravestone, securitycraft, horror_element_mod, zombieawareness, cpm, additionalguns, elevatorid, obfuscate, badmobs, sophisticatedbackpacks, atlaslib, coroutil, mvs, mcwdoors, chisel, mcwfurnitures, hordes, enhancedcelestials, enhancedai, carryon, pretaccraft, immersive_portals, forge, valhelsia_core, valhelsia_structures, tlskincape, playerrevive, emotecraft, createaddition
+[03:46:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: vateyu[/127.96.74.149:38451] logged in with entity id 10,984 at (87.5, 65.1, 104.5)
+[03:46:50] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vateyu (18)
+[03:46:50] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vateyu
+[03:46:52] [User Authenticator #28/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player samurai421 is 76de2e9b-feaa-3489-941e-2329a00106f2
+[03:46:55] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 45 mods : minecraft, voicechat, repurposed_structures, serene_shrubbery, cgm, playeranimator, philips_ruins1_16_5, creativecore, insanelib, flywheel, curios, undead, create, createdeco, mcwfurnituresbop, biomesoplenty, gravestone, securitycraft, horror_element_mod, zombieawareness, cpm, additionalguns, elevatorid, obfuscate, badmobs, sophisticatedbackpacks, atlaslib, coroutil, mvs, mcwdoors, chisel, mcwfurnitures, hordes, enhancedcelestials, enhancedai, carryon, pretaccraft, immersive_portals, forge, valhelsia_core, valhelsia_structures, tlskincape, playerrevive, emotecraft, createaddition
+[03:47:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: samurai421[/127.18.190.212:54211] logged in with entity id 11,126 at (87.5, 65.1, 101.5)
+[03:47:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu lost connection: Timed out
+[03:47:14] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vateyu
+[03:47:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vateyu left the game
+[03:47:15] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of samurai421 (18)
+[03:47:15] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to samurai421
+[03:47:35] [User Authenticator #29/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player vateyu is 5015fe34-1e48-31c9-b241-b5d03155dcdf
+[03:47:35] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 45 mods : minecraft, voicechat, repurposed_structures, serene_shrubbery, cgm, playeranimator, philips_ruins1_16_5, creativecore, insanelib, flywheel, curios, undead, create, createdeco, mcwfurnituresbop, biomesoplenty, gravestone, securitycraft, horror_element_mod, zombieawareness, cpm, additionalguns, elevatorid, obfuscate, badmobs, sophisticatedbackpacks, atlaslib, coroutil, mvs, mcwdoors, chisel, mcwfurnitures, hordes, enhancedcelestials, enhancedai, carryon, pretaccraft, immersive_portals, forge, valhelsia_core, valhelsia_structures, tlskincape, playerrevive, emotecraft, createaddition
+[03:47:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: vateyu[/127.96.74.149:57303] logged in with entity id 11,215 at (87.5, 65.022, 104.5)
+[03:47:41] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vateyu (18)
+[03:47:41] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vateyu
+[03:48:10] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld -82 153 194
+[03:48:10] [Server thread/INFO] [Portal/]: Generated Portal On Ground
+[03:48:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /tp vateyu samurai421
+[03:48:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Teleported vateyu to samurai421]
+[03:48:18] [Async Chat Thread - 17/INFO] [/]: <vateyu> que haces
+[03:48:25] [Async Chat Thread - 17/INFO] [/]: <samurai421> queria ver como era
+[03:48:26] [Async Chat Thread - 17/INFO] [/]: <vateyu> para borrar es
+[03:48:35] [Async Chat Thread - 17/INFO] [/]: <vateyu> ../portal delate
+[03:48:38] [Async Chat Thread - 17/INFO] [/]: <vateyu> esta en el dc
+[03:48:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /portal delete_portal
+[03:48:54] [Async Chat Thread - 17/INFO] [/]: <samurai421> ok
+[03:48:59] [Async Chat Thread - 17/INFO] [/]: <vateyu> de los dos
+[03:49:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /portal delete_portal
+[03:49:01] [Async Chat Thread - 17/INFO] [/]: <vateyu> lados
+[03:49:03] [Async Chat Thread - 17/INFO] [/]: <vateyu> fijate
+[03:49:08] [Async Chat Thread - 17/INFO] [/]: <samurai421> listo
+[03:49:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /portal delete_portal
+[03:49:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /portal delete_portal
+[03:49:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /gamemode spectator
+[03:49:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set own game mode to Spectator Mode]
+[03:50:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /tp vateyu
+[03:50:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Teleported samurai421 to vateyu]
+[03:50:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~
+[03:50:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -85 28 182 minecraft:torch
+[03:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 4 blocks]
+[03:50:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -85 28 182 minecraft:torch
+[03:50:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 9828 blocks]
+[03:51:03] [Async Chat Thread - 18/INFO] [/]: <vateyu> mi pccc
+[03:51:06] [Async Chat Thread - 18/INFO] [/]: <vateyu> se me petaa
+[03:51:07] [Async Chat Thread - 18/INFO] [/]: <samurai421> JAJAJA
+[03:51:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -85 28 182 air
+[03:51:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 186 blocks]
+[03:51:19] [Async Chat Thread - 18/INFO] [/]: <vateyu> me decia que no responde xd
+[03:51:20] [Async Chat Thread - 18/INFO] [/]: <vateyu> dige rip
+[03:51:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -85 28 182 air
+[03:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 11 blocks]
+[03:51:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -85 28 182 air
+[03:51:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 302 blocks]
+[03:51:40] [Async Chat Thread - 18/INFO] [/]: <samurai421> ya
+[03:51:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /clearlag:lagg
+[03:51:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /gamemode creative
+[03:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Set own game mode to Creative Mode]
+[03:51:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /lagg clear
+[03:52:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -6 14 210 minecraft:andesite_wall
+[03:52:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 82 blocks]
+[03:52:55] [Async Chat Thread - 19/INFO] [/]: <vateyu> que haces
+[03:53:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -6 14 210 minecraft:sea_lantern
+[03:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 246 blocks]
+[03:53:15] [Async Chat Thread - 19/INFO] [/]: <vateyu> de cuanto era el portal de arriba?
+[03:53:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -6 14 210 minecraft:sea_lantern replace air
+[03:53:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 3 blocks]
+[03:53:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode survival
+[03:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Survival Mode]
+[03:53:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode creative
+[03:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Creative Mode]
+[03:53:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /fill ~ ~ ~ -6 14 210 air replace minecraft:sea_lantern
+[03:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [samurai421: Successfully filled 155 blocks]
+[03:53:35] [Async Chat Thread - 19/INFO] [/]: <vateyu> pero ya ahi paredes
+[03:53:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode survival
+[03:53:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Survival Mode]
+[03:53:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode spectator
+[03:53:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Spectator Mode]
+[03:54:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode survival
+[03:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Survival Mode]
+[03:54:05] [Async Chat Thread - 19/INFO] [/]: <samurai421> necesito mi word edit
+[03:54:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /tp vateyu samurai421
+[03:54:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Teleported vateyu to samurai421]
+[03:54:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode spectator
+[03:54:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Spectator Mode]
+[03:54:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: vateyu issued server command: /gamemode creative
+[03:54:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vateyu: Set own game mode to Creative Mode]
+[03:54:22] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld -57 15 195
+[03:54:28] [Async Chat Thread - 19/INFO] [/]: <vateyu> era en el otro lado xd
+[03:54:43] [Async Chat Thread - 19/INFO] [/]: <samurai421> se puede rotar o no?
+[03:54:47] [Async Chat Thread - 19/INFO] [/]: <vateyu> puedes eliminar solo los portaes no los marcos del otro lado porfa
+[03:55:02] [Async Chat Thread - 19/INFO] [/]: <vateyu> de los dos lados
+[03:55:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: samurai421 issued server command: /portal delete_portal
